@@ -1,0 +1,40 @@
+<style>* {
+    margin: 3%;
+}
+
+li {
+    color: blueviolet;
+}
+
+body {
+    background-color: lightblue;
+}
+
+ul {
+    text-decoration: underline;
+}
+
+p {
+    font-family: 'Arial Narrow Bold';
+    font-size: 22px;
+    background-color: antiquewhite;
+    width: 50%;
+}
+
+#short {
+    color: #1839ad79;
+
+    text-decoration: underline;
+
+}
+
+#embedded {
+    text-align: center;
+}
+
+.after {
+    font-style: italic;
+    font-size: 35px;
+}
+
+</style>
